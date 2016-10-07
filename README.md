@@ -22,4 +22,7 @@ Always could not find some books, so the creation of this project to collect boo
 
 life/efficiency/get things down.epub
 
+##只是收集电子书？不是，你还可以写书评的。
+
+点击本项目的wiki，直接书写……
 
