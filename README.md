@@ -25,4 +25,4 @@ life/efficiency/get things down.epub
 ##只是收集电子书？不是，你还可以写书评的。
 
 点击本项目的wiki，直接书写……
-
+###[书语](https://github.com/WeihuaGu/EBookcollection/wiki/%E4%B9%A6%E8%AF%AD)
