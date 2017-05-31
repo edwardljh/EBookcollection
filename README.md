@@ -17,6 +17,7 @@
 * 如果是中文电子书,填写中文路径，如民法思维.epub添加
   * 法律/民法/民法总论.epub
   * 如果是英文电子书，填写英文路径，如get things down.epub life/efficiency/get things down.epub
+* 提示：如果上传的书籍过大，为了节省github空间，可以进行压缩上传。压缩请使用zip格式并且不要设置解压密码。
 
 ## 只是收集电子书？不是，你还可以写书评的。
 
