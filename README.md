@@ -23,3 +23,9 @@
 
 点击本项目的wiki，直接书写……
 ### [书语](https://github.com/WeihuaGu/EBookcollection/wiki/%E4%B9%A6%E8%AF%AD)
+
+## fork本项目指南
+直接点击fork按钮来把本项目同步到你的仓库。
+请至少再新建一个分支，这样你可以用master分支来与本项目的master保持同步。使用另一个新建的分支来提交更改。
+同步fork分支的方法请参考以下的github帮助页面
+[syncing a fork](https://help.github.com/articles/syncing-a-fork/)
